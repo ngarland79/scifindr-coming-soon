@@ -1,0 +1,113 @@
+/*
+Theme Name: Ace
+Author URI: http://mishostudio.com
+Description: Coming soon web page.
+Author: @Shamanet
+Version: 1.0
+License: 
+Copyright: (c) 2014 MISHO STUDIO 
+*/
+
+/*
+COLORS
+Modify color text of dark sections
+*/
+section.clock, .mail-list input, section.contact, section.contact legend.subtitle, .form-control, .btn-default:hover {
+    color: #FFF;
+}
+
+/*
+COLORS
+Modify background of dark sections
+*/
+body, section.contact, section.social, .btn-default:hover {
+    background-color: #333;
+}
+
+/*
+COLORS
+Modify text color of light and gray sections
+*/
+body, .carousel-caption, legend.subtitle {
+    color: #333;
+}
+
+/*
+COLORS
+Modify fieldset border of light and gray sections
+*/
+.content fieldset {
+    border-top-color: #333;
+}
+
+/*
+COLORS
+Modify background color of light sections
+*/
+div.content, section.team .margin, section.copyright {
+    background-color: #FFF;
+}
+
+/*
+COLORS
+Modify background color of gray sections
+*/
+section.services, section.team, section.team .member .photo, .carousel-indicators .active {
+    background-color: #f6f6f6;
+}
+
+/*
+COLORS
+Modify color of gray elements
+*/
+section.quote p, .carousel-control, .carousel-control:hover, .carousel-control:focus {
+    color: #aaa;
+}
+
+/*
+COLORS
+Modify border of gray elements
+*/
+.carousel-indicators li {
+    border-color: #aaa;
+}
+
+/*
+COLORS
+Modify border color of form elements and countdown numbers
+*/
+.form-control, .digits {
+    border-color: #FFF;
+}
+
+/*
+COLORS
+Modify color of send buttons
+*/
+.btn-default {
+    background-color: #FFF;
+}
+
+/*
+COLORS
+Modify background of form elements
+*/
+.form-control {
+    background-color: rgba(1,1,1,0.3);
+}
+
+/*
+COLORS
+Modify background of error message
+*/
+label.error {
+    background-color: #f22;
+}
+
+/*
+COLORS
+Modify background of success message
+*/
+label.sent {
+    background-color: #0C0;
+}

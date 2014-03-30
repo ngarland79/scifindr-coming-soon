@@ -1,0 +1,40 @@
+﻿/* TEAM */
+
+Web Developer, Designer: Eduardo Cerón
+Twitter: @Shamanet
+Location: México City, México
+
+/* THANKS */
+
+“Alpha du centaure”: http://www.flickr.com/people/alphaducentaure/ (Supersized Photo)
+Andy Prevost: http://www.worxware.com/ (PHPMailer)
+Brent R. Matzelle: http://bmatzelle.users.sourceforge.net/ (PHPMailer)
+Caleb Troughton: http://imakewebthings.com/ (JQuery Waypoints)
+Сергей Лепехин: http://500px.com/photo/44450586 (Team Photo)
+Gian Luigi Chiesa: http://500px.com/KIEzuZ (Team Photo)
+Google Inc.: http://www.google.com/ (Google Maps, Google Analytics)
+Jacob Thornton: http://byfat.xxx/ (Bootstrap)
+Jess Wood: http://www.flickr.com/people/jess-wood-87/ (Supersized Photo)
+Jim Jagielski: http://www.jimjag.com/ (PHPMailer)
+Jörn Zaefferer: http://bassistance.de/about/ (JQuery Validation)
+jQuery Foundation, Inc.: http://jquery.com/ (JQuery)
+Marcus Bointon: http://marcus.bointon.com/ (PHPMailer)
+Mark Otto: http://markdotto.com/ (Bootstrap)
+Maxim Sheluhin: http://500px.com/Maxim_Tuapse (Team Photo)
+Mozilla Foundation: http://www.mozilla.org/ (JavaScript)
+Scott Jehl http://scottjehl.com/ (Respond)
+The PHP Group: http://www.php.net/ (http://www.php.net/) (PHP)
+The World Wide Web Consortium: http://www.w3.org/Consortium/ (Web Standars)
+Tom Babich: http://www.flickr.com/people/100308777@N07/ (Supersized Photo)
+“tybruffy” https://github.com/tybruffy (IE Bootstrap Carousel)
+Sam Dunn: http://onemightyroar.com/ (JQuery Supersized)
+Vassilis Dourdounis: http://www.littlewebthings.com/about/ (JQuery Countdown)
+
+and to all my family and friends.
+
+/* SITE */
+     
+Last update: 08/01/2014
+Standards: HTML5, CSS3, PHP, JavaScript                            
+Components: Modernizr, Bootstrap, jQuery, jQuery Validate, JQuery Supersized, JQuery Waypoints, JQuery Countdown, PHPMailer                            
+Software: Adobe CS, Mozilla Firefox, Google Chrome

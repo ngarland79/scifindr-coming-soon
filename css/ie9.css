@@ -1,0 +1,7 @@
+/*IE9*/
+.carousel-indicators .active {
+	width: 10px;
+	height: 10px;
+	margin:1px;
+	background-color: #fff;
+}
