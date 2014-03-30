@@ -36,7 +36,7 @@ var countDownSecond = 0;
 //<form action="http://mishostudio.us7.list-manage.com/subscribe/post?u=1856b1f9803b4d424bbace9a1&amp;id=a37292a6c1">
 //8.- Copy the URL, e.g.: http://mishostudio.us7.list-manage.com/subscribe/post?u=1856b1f9803b4d424bbace9a1&amp;id=a37292a6c1
 //9.- Paste the URL into the next line.
-var mailChimpUrl = 'http://mishostudio.us7.list-manage.com/subscribe/post?u=1856b1f9803b4d424bbace9a1&amp;id=a37292a6c1';
+var mailChimpUrl = 'http://totalpctuneup.us7.list-manage1.com/subscribe/post?u=655ef6606d3fdf211ebbf9abf&amp;id=0c51c6bc23';
 
 //BIG PICTURE BACKGROUND
 //Warning of slow perfomance: Images grater than to 2000px are not recommended.
@@ -54,9 +54,9 @@ var bigPicSpeed = 1000;
 //GOOGLE MAP
 //Show your neighborhood your visitors.
 //1.- Set location latitude.
-var mapLatitude = 40.714353;
+var mapLatitude = 37.791166;
 //2.- Set location longitude.
-var mapLongitude = -74.005973;
+var mapLongitude = -122.418130;
 //3.- Colorize your map according with your brand, set the HEX code.
 var mapHue = "#000000";
 //4.- Optionally, your can set the light of your map.
