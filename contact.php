@@ -28,7 +28,7 @@ $contact  = "Someone contact you, here is the information. Greetings.\r\n\r\n";
 $contact .= "Name: " . $name . "\r\n";
 $contact .= "Email: " . $email . "\r\n";
 $contact .= "Message: " . $message . "\r\n\r\n\r\n";
-$contact .= "Message from: " . $root = ($_SERVER["HTTPS"] ? "https" : "http") . "://" . $_SERVER["HTTP_HOST"] . "/\r\n";
+$contact .= "Message from: Scifindr.com\r\n";
 $contact .= "Copyright 2014. " . $companyName;
 
 //Call to PHPMailer

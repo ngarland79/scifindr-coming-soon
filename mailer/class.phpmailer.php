@@ -170,7 +170,7 @@ class PHPMailer
      * The path to the sendmail program.
      * @type string
      */
-    public $Sendmail = '/usr/sbin/sendmail';
+    public $Sendmail = '/usr/bin/sendmail';
 
     /**
      * Whether mail() uses a fully sendmail-compatible MTA.
@@ -676,7 +676,7 @@ class PHPMailer
     public function isSendmail()
     {
         if (!stristr(ini_get('sendmail_path'), 'sendmail')) {
-            $this->Sendmail = '/usr/sbin/sendmail';
+            $this->Sendmail = '/usr/bin/sendmail';
         }
         $this->Mailer = 'sendmail';
     }
