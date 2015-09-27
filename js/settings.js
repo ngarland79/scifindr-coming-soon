@@ -18,8 +18,8 @@ var companyName = 'scifindr';
 
 //COUNTDOWN
 //1.- Just choose your due date and place it into the next lines.
-var countDownDay = 01;
-var countDownMonth = 06;
+var countDownDay = 15;
+var countDownMonth = 09;
 var countDownYear = 2014;
 var countDownHour = 0;
 var countDownMinute = 0;
